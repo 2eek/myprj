@@ -65,7 +65,7 @@
 
 <!-- 헬로월드. 인터벌타이머쓸 것. -->
 <div id="my_box">
-  <h3>Hello World</h3>
+  <h3>Hello World!!</h3>
 </div>
 <button id="start">Start</button>
 <button id="stop">Stop</button>
