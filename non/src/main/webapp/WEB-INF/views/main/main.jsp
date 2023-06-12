@@ -56,7 +56,7 @@
 			<button class="버튼1">1</button>
 			<button class="버튼2">2</button>
 			<button class="버튼3">3</button>
-			<button class="버튼4">4</button>
+			<button class="버튼4">4.</button>
 			<span class="nextButton1">▶</span>
 			<!--다음 버튼 -->
 		</div>
