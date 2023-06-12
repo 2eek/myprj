@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+.container{
+	
+	width:400vw;
+transition:transform 1.5s;
+
+}
+
+.inner{
+	
+	width:100vw;
+	float:left;
+}
+
+.inner img{
+		width:100vw;
+}
+
+
+
+
+
+.go {
+  color: green;
+}
+.stop {
+  color: red;
+}
